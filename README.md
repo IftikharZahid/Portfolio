@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IftikharZahid
 - 👀 I’m interested in programming, ai machine learning 
 - 🌱 I’m currently learning machine learning, python dev, Reacr Native
-- 💞️ I’m looking to collaborate on python projects or Reactnative
+- 💞️ I’m looking to collaborate on python projects and Mobile App with ReactNative 
 - 📫 How to reach me? Email me: IftikharZahid@outlook.com
 
 <!---
