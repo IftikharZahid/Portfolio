@@ -6,11 +6,36 @@
 
 ## **Summary.**
 To pursue a career in a progressive organization that provides opportunities for career  growth and professional development in order to groom the overall personality.
+## **Education.**
+- **Government College
+University Faisalabad
+Faisalabad / M.Sc(CS) (2020) 3.1 GPA**
+- **Government College University Faisalabad
+Faisalabad / B.Sc
+(2018)
+56%**
+- **Govt College Jaranwala
+Faisalabad / ICS
+(2016)
+60%**
+- **Govt Hight School Rajab
+Nankana Sahib / Matric
+(2011)
+63%**
+## **Certifications**
+- **Android App Development
+e-Rozgaar | 2023**
 
+- **SEO
+Digiskills | 2021**
+
+- **WORDPRESS
+Digiskills | 2020**
 ## **Skills & Strengths**
-**• Graphics Designing** **• Mobile App Development** **• MS Office**
+**• Graphics Designing • Mobile App Development • MS Office • Task Management • Teaching • Wordpress website development**
 
-**• Task Management** **• Teaching** **• Wordpress website development**
+## **Awards**
+**- The Seeks Academy FTA Best Teacher Award | 2024**
 ## **Work History.**
 #### **IT Teacher / Computer Teacher || Seeks Academy FRT**
 #### Basics of Information Technology (Computer Science)
@@ -27,4 +52,4 @@ To pursue a career in a progressive organization that provides opportunities for
 ####  **Mobile App Development || @ZahidCodes**
 ##### As a React Native app developer,
 - I have honed my skills in JavaScript and gained extensive experience with various tools and libraries essential to mobile app development (ReactNative Js).
--  I also have extensive expertise in UI/UX design.
+- I also have extensive expertise in UI/UX design.
