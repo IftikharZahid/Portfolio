@@ -6,6 +6,7 @@
 
 ## **Summary.**
 To pursue a career in a progressive organization that provides opportunities for career  growth and professional development in order to groom the overall personality.
+
 ## **Education.**
 - **Government College
 University Faisalabad
@@ -22,6 +23,7 @@ Faisalabad / ICS
 Nankana Sahib / Matric
 (2011)
 63%**
+
 ## **Certifications**
 - **Android App Development
 e-Rozgaar | 2023**
