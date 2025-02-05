@@ -6,6 +6,11 @@
 
 ## **Summary.**
 To pursue a career in a progressive organization that provides opportunities for career  growth and professional development in order to groom the overall personality.
+
+## **Skills & Strengths**
+**• Graphics Designing** **• Mobile App Development** **• MS Office**
+
+**• Task Management** **• Teaching** **• Wordpress website development**
 ## **Work History.**
 #### **IT Teacher / Computer Teacher || Seeks Academy FRT**
 #### Basics of Information Technology (Computer Science)
