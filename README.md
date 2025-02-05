@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, AI, & Mobile App Development.
 - 🌱 I’m working on machine learning, python dev, Reacr Native Projects.
 - 💞️ I’m looking to collaborate on python projects and Mobile App with ReactNative 
-- 📫 How to reach me? Email me: <link>IftikharXahid@gmail.com</link>
+- 📫 How to reach me? Email me: IftikharXahid@gmail.com
 
 ## <b>Summary.
 To pursue a career in a progressive organization that provides opportunities for career  growth and professional development in order to groom the overall personality.
