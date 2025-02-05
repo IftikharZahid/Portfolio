@@ -53,3 +53,8 @@ Digiskills | 2020**
 ##### As a React Native app developer,
 - I have honed my skills in JavaScript and gained extensive experience with various tools and libraries essential to mobile app development (ReactNative Js).
 - I also have extensive expertise in UI/UX design.
+## **Hobbies**
+- Reading books
+- Football playing
+- Web Development
+- React Native App Dev
