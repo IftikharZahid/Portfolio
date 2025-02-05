@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on python projects and Mobile App with ReactNative 
 - 📫 How to reach me? Email me: IftikharXahid@gmail.com
 
-## <b>Summary.
+## <b>Summary.</b>
 To pursue a career in a progressive organization that provides opportunities for career  growth and professional development in order to groom the overall personality.
-## <b>Work History.
+## <b>Work History.</b>
 ### IT Teacher / Computer Teacher || Seeks Academy FRT
 #### Basics of Information Technology (Computer Science)
 >Introduction to programming C++,
